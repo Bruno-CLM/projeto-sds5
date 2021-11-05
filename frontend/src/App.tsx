@@ -17,7 +17,7 @@ function App() {
             <BarChat />
           </div>
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Taxa de sucesso (%)</h5>
+            <h5 className="text-center text-secondary">Total de vendas</h5>
             <DonutChat />
           </div>
         </div>
